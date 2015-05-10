@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /go.php
+Disallow: /update
+Disallow: /search/
+
+Sitemap: http://botalizer.com/sitemap.xml
